@@ -1,6 +1,6 @@
 # **Topic - Stone Paper Scissor**
 
-### [Click Here to View](https://rayapaul-clock.netlify.app/)
+### [Click Here to View](https://raya-sps.netlify.app/)
 
 ## Description-
 
